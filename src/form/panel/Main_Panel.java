@@ -24,12 +24,12 @@ public abstract class Main_Panel extends JApplet{
 	/**
 	* Объявляем константы (тарифы на коммунальные услуги)
 	*/
-	public final double TARIF_HOT_WATER = 141.44;
-	public final double TARIF_COLD_WATER = 22.21;
-	public final double TARIF_HEATING = 37.47;
-	public final double TARIF_GAS_FLAT = 6.50;
-	public final double TARIF_ELECTRICITY = 2.74;
-	public final double TARIF_GAS_HOUSE = 4994.02;
+	public double TARIF_HOT_WATER = 141.44;
+	public double TARIF_COLD_WATER = 22.21;
+	public double TARIF_HEATING = 37.47;
+	public double TARIF_GAS_FLAT = 6.50;
+	public double TARIF_ELECTRICITY = 2.74;
+	public double TARIF_GAS_HOUSE = 4994.02;
 	
 	/**
 	* Объявляем переменные, использующиеся в калькуляторе
